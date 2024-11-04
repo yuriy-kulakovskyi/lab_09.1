@@ -1,0 +1,30 @@
+Start testing: Nov 04 21:49 EET
+----------------------------------------------------------
+1/1 Testing: ArctgTest.BasicAssertions
+1/1 Test: ArctgTest.BasicAssertions
+Command: "/Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_1/cmake-build-debug/PR9_1_tests" "--gtest_filter=ArctgTest.BasicAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_1/cmake-build-debug
+"ArctgTest.BasicAssertions" start time: Nov 04 21:49 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/AP/PR9/PR9_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ArctgTest.BasicAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArctgTest
+[ RUN      ] ArctgTest.BasicAssertions
+[       OK ] ArctgTest.BasicAssertions (2 ms)
+[----------] 1 test from ArctgTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArctgTest.BasicAssertions" end time: Nov 04 21:49 EET
+"ArctgTest.BasicAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 04 21:49 EET
